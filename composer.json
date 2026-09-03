@@ -17,7 +17,7 @@
         "fakerphp/faker": "1.19.0",
         "laravel/sail": "1.14.10",
         "mockery/mockery": "1.5.0",
-        "nunomaduro/collision": "6.2.0",
+        "nunomaduro/collision": "8.9.5",
         "phpunit/phpunit": "9.5.20"
     },
     "autoload": {
